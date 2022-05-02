@@ -17,7 +17,7 @@ A aplicação consiste na recriação da interface do principal site de streamin
 # Tecnologias utilizadas
 ## Front end
 - HTML / CSS / JS 
-- 
+
 ## Implantação em produção
 - Front end web: Netlify
 
