@@ -9,10 +9,10 @@ Netflix Clone é uma aplicação web e mobile construída durante Bootcamp Carre
 A aplicação consiste na recriação da interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto foi aprendido: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
 
 ## Layout mobile
-![Mobile 1](https://github.com/luispaulobrito/assets/blob/main/Screenshot_2.jpg) ![Mobile 2](https://github.com/luispaulobrito/assets/blob/main/Screenshot_3.jpg)
+![Mobile 1](https://github.com/luispaulobrito/assets/blob/main/Screenshot_4.jpg) ![Mobile 2](https://github.com/luispaulobrito/assets/blob/main/Screenshot_5.jpg)
 
 ## Layout web
-![Web 1](https://github.com/luispaulobrito/assets/blob/main/Screenshot_1.jpg)
+![Web 1](https://github.com/luispaulobrito/assets/blob/main/Screenshot_3.jpg)
 
 # Tecnologias utilizadas
 ## Front end
