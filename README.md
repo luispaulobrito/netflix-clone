@@ -4,7 +4,7 @@
 
 https://netflix-clone-lplb.netlify.app/
 
-Netflix Clone é uma aplicação web e mobile construída durante Bootcamp Carrefour Web Developer, evento organizado pela [DIO](https://web.dio.me "Site da DIO").
+Netflix Clone é uma aplicação web e mobile construída durante Santander Bootcamp Fullstack Developer, evento organizado pela [DIO](https://web.dio.me "Site da DIO").
 
 A aplicação consiste na recriação da interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto foi aprendido: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery a favor da sua aplicação.
 
